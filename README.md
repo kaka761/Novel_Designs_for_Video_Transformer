@@ -13,7 +13,7 @@ This repo is for:
 
 RGBt Sampling
 
-<img src="https://github.com/kaka761/Novel_Designs_for_Video_Transformer/blob/master/RGBt.png" align="center" width=50%>
+<img src="https://github.com/kaka761/Novel_Designs_for_Video_Transformer/blob/master/RGBt.png" align="center" width=50% />
 
 Variable Tubes Tokenization
 <img src="https://github.com/kaka761/Novel_Designs_for_Video_Transformer/blob/master/Tubes.png" align="center" width=50%>
