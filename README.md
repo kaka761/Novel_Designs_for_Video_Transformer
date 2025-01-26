@@ -1,4 +1,4 @@
-Novel Design Ideas that Improve Video-Understanding Networks with Transformers
+# Novel Design Ideas that Improve Video-Understanding Networks with Transformers
 
 This repo is for:
 
