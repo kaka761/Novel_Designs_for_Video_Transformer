@@ -10,8 +10,8 @@ This repo is for:
 **Paper 1:** With the development of deep learning, video understanding has become a promising and challenging research field. In recent years, different transformer architectures have shown state-of-the-art performance on most benchmarks. Although transformers can process longer temporal sequences and therefor perform better than convolution networks, they require huge datasets and have high computational costs. The inputs to video transformers are usually clips sampled out of a video, and the length of the clips is limited by the available computing resources. In this paper, we introduce novel methods to sample and tokenize the input video, such as to better capture the dynamics of the input without a large increase in computational costs. Moreover, we introduce the MinBlocks as a novel architecture inspired by neural processing in biological vision. The combination of variable tubes and MinBlocks improves network performance by 10.67%.
 
 ### Novel Designs
-
-![RGBt Sampling](https://github.com/kaka761/Novel_Designs_for_Video_Transformer/blob/master/RGBt.png#pic_center)
+<img src="https://github.com/kaka761/Novel_Designs_for_Video_Transformer/blob/master/RGBt.png#pic_center" width=65%>
+![RGBt Sampling]()
 
 ![Variable Tubes Tokenization](https://github.com/kaka761/Novel_Designs_for_Video_Transformer/blob/master/Tubes.png)
 
