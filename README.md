@@ -13,17 +13,21 @@ This repo is for:
 
 RGBt Sampling
 
-<div align=right>
+<div align=center>
 <img src="https://github.com/kaka761/Novel_Designs_for_Video_Transformer/blob/master/RGBt.png" align="center" width=50% />
 </div>
 
 Variable Tubes Tokenization
 
-<img src="https://github.com/kaka761/Novel_Designs_for_Video_Transformer/blob/master/Tubes.png" align="center" width=50%>
+<div align=center>
+<img src="https://github.com/kaka761/Novel_Designs_for_Video_Transformer/blob/master/Tubes.png" align="center" width=50% />
+</div>
 
 MinBlocks
 
-<img src="https://github.com/kaka761/Novel_Designs_for_Video_Transformer/blob/master/Mins.png" align="center" width=50%>
+<div align=center>
+<img src="https://github.com/kaka761/Novel_Designs_for_Video_Transformer/blob/master/Mins.png" align="center" width=50% />
+</div>
 
 **Paper 2:** The modeling of temporal dependencies, and the associated computational load, remain challenges in video understanding. We here focus on using a more efficient sampling of color and temporal information. We sample color not from the same frame but from different consecutive frames to capture richer temporal information without increasing the computational load. We demonstrate the effectiveness of our approach for 2D-CNNs, 3D-CNNs, and Transformers, for which we obtain significant performance improvements on two benchmarks. The improvements are 2.43% on UCF101 and 4.55% on HMDB51 for the ResNet18, 10.28% and 7.12% for the 3D-ResNet18, and 15.11% and 13.71% for the UniFormerV2. These improvements are obtained without additional costs by just changing the way color is sampled. 
 
@@ -31,8 +35,12 @@ MinBlocks
 
 3DCNN & Transformer
 
-<img src="https://github.com/kaka761/Novel_Designs_for_Video_Transformer/blob/master/3Dcnn.png" align="center" width=50%>
+<div align=center>
+<img src="https://github.com/kaka761/Novel_Designs_for_Video_Transformer/blob/master/3Dcnn.png" align="center" width=50% />
+</div>
 
 Fusion Model
 
-<img src="https://github.com/kaka761/Novel_Designs_for_Video_Transformer/blob/master/fuse.png" align="center" width=35%>
+<div align=center>
+<img src="https://github.com/kaka761/Novel_Designs_for_Video_Transformer/blob/master/fuse.png" align="center" width=30% />
+</div>
