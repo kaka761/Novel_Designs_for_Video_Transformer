@@ -11,7 +11,7 @@ This repo is for:
 
 ### Novel Designs
 
-![RGBt Sampling](https://github.com/kaka761/Novel_Designs_for_Video_Transformer/blob/master/RGBt.png width=65%)
+![RGBt Sampling](https://github.com/kaka761/Novel_Designs_for_Video_Transformer/blob/master/RGBt.png =100x80)
 
 ![Variable Tubes Tokenization](https://github.com/kaka761/Novel_Designs_for_Video_Transformer/blob/master/Tubes.png)
 
