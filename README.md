@@ -47,19 +47,16 @@ Fusion Model
 
 ## Cite
 BibTeX entry for citation.
-(Xie, Allaire, and Grolemund 2018)
 
-<div id="refs" class="references csl-bib-body hanging-indent">
-
-<div id="ref-xie2018" class="csl-entry">
-
-Xie, Yihui, J. J. Allaire, and Garrett Grolemund. 2018. *R Markdown: The
-Definitive Guide*. Boca Raton, Florida: Chapman; Hall/CRC.
-<https://bookdown.org/yihui/rmarkdown>.
-
-</div>
-
-</div>
+@Book{xie2018,
+  title = {R Markdown: The Definitive Guide},
+  author = {Yihui Xie and J.J. Allaire and Garrett Grolemund},
+  publisher = {Chapman and Hall/CRC},
+  address = {Boca Raton, Florida},
+  year = {2018},
+  note = {ISBN 9781138359338},
+  url = {https://bookdown.org/yihui/rmarkdown},
+}
 
 ## Acknowledgement
 This repository is built based on [UniFormerV2](https://github.com/OpenGVLab/UniFormerV2?tab=readme-ov-file#uniformerv2) repository.
