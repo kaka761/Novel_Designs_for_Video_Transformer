@@ -48,15 +48,21 @@ Fusion Model
 ## Cite
 BibTeX entry for citation.
 
-@Book{xie2018,
-  title = {R Markdown: The Definitive Guide},
-  author = {Yihui Xie and J.J. Allaire and Garrett Grolemund},
-  publisher = {Chapman and Hall/CRC},
-  address = {Boca Raton, Florida},
-  year = {2018},
-  note = {ISBN 9781138359338},
-  url = {https://bookdown.org/yihui/rmarkdown},
+<details>
+<summary>论文引用</summary>
+<pre>
+@article{example,
+  title={An Example Article},
+  author={Doe, John},
+  journal={Journal of Example Studies},
+  year={2020},
+  volume={10},
+  number={5},
+  pages={123-456},
+  doi={10.1234/example}
 }
+</pre>
+</details>
 
 ## Acknowledgement
 This repository is built based on [UniFormerV2](https://github.com/OpenGVLab/UniFormerV2?tab=readme-ov-file#uniformerv2) repository.
