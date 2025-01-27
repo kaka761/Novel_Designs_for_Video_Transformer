@@ -17,7 +17,7 @@ This repo is for:
 
 <div align=left>
 <img src="https://github.com/kaka761/Novel_Designs_for_Video_Transformer/blob/master/RGBt.png" align="center" width=55% />
-</div>
+</div>  
 
 
 **Variable Tubes Tokenization**
