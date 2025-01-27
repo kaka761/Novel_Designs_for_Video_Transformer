@@ -44,7 +44,7 @@ This repo is for:
 **Fusion Model**
 
 <div align=left>
-<img src="https://github.com/kaka761/Novel_Designs_for_Video_Transformer/blob/master/fuse.png" align="center" width=30% />
+<img src="https://github.com/kaka761/Novel_Designs_for_Video_Transformer/blob/master/fuse.png" align="center" width=25% />
 </div>
 
 ## Cite
