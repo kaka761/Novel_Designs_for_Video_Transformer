@@ -53,15 +53,13 @@ This repo is for:
 <details>
 <summary>BibTeX entry for citation.</summary>
 <pre>
-@article{example,
-  title={An Example Article},
-  author={Doe, John},
-  journal={Journal of Example Studies},
-  year={2020},
-  volume={10},
-  number={5},
-  pages={123-456},
-  doi={10.1234/example}
+@inproceedings{hu2024novel,
+  title={Novel Design Ideas that Improve Video-Understanding Networks with Transformers},
+  author={Hu, Yaxin and Barth, Erhardt},
+  booktitle={2024 International Joint Conference on Neural Networks (IJCNN)},
+  pages={1--7},
+  year={2024},
+  organization={IEEE}
 }
 </pre>
 </details>
