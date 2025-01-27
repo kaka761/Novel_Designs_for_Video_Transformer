@@ -13,21 +13,21 @@ This repo is for:
 
 ### Novel Designs
 
-**RGBt Sampling**
+#### **RGBt Sampling**
 
 <div align=left>
 <img src="https://github.com/kaka761/Novel_Designs_for_Video_Transformer/blob/master/RGBt.png" align="center" width=55% />
 </div>  
 
 
-**Variable Tubes Tokenization**
+#### **Variable Tubes Tokenization**
 
 <div align=left>
 <img src="https://github.com/kaka761/Novel_Designs_for_Video_Transformer/blob/master/Tubes.png" align="center" width=55% />
 </div>
 
 
-**MinBlocks**
+#### **MinBlocks**
 
 <div align=left>
 <img src="https://github.com/kaka761/Novel_Designs_for_Video_Transformer/blob/master/Mins.png" align="center" width=55% />
@@ -37,13 +37,13 @@ This repo is for:
 
 ### Architecture
 
-**3DCNN & Transformer**
+#### **3DCNN & Transformer**
 
 <div align=left>
 <img src="https://github.com/kaka761/Novel_Designs_for_Video_Transformer/blob/master/3Dcnn.png" align="center" width=55% />
 </div>
 
-**Fusion Model**
+#### **Fusion Model**
 
 <div align=left>
 <img src="https://github.com/kaka761/Novel_Designs_for_Video_Transformer/blob/master/fuse.png" align="center" width=27% />
