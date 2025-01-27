@@ -46,10 +46,8 @@ Fusion Model
 </div>
 
 ## Cite
-BibTeX entry for citation.
-
 <details>
-<summary>论文引用</summary>
+<summary>BibTeX entry for citation.</summary>
 <pre>
 @article{example,
   title={An Example Article},
