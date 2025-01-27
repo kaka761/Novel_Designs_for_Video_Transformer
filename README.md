@@ -13,19 +13,19 @@ This repo is for:
 
 RGBt Sampling
 
-<div align=center>
+<div align=left>
 <img src="https://github.com/kaka761/Novel_Designs_for_Video_Transformer/blob/master/RGBt.png" align="center" width=50% />
 </div>
 
 Variable Tubes Tokenization
 
-<div align=center>
+<div align=left>
 <img src="https://github.com/kaka761/Novel_Designs_for_Video_Transformer/blob/master/Tubes.png" align="center" width=50% />
 </div>
 
 MinBlocks
 
-<div align=center>
+<div align=left>
 <img src="https://github.com/kaka761/Novel_Designs_for_Video_Transformer/blob/master/Mins.png" align="center" width=50% />
 </div>
 
@@ -35,12 +35,31 @@ MinBlocks
 
 3DCNN & Transformer
 
-<div align=center>
+<div align=left>
 <img src="https://github.com/kaka761/Novel_Designs_for_Video_Transformer/blob/master/3Dcnn.png" align="center" width=50% />
 </div>
 
 Fusion Model
 
-<div align=center>
+<div align=left>
 <img src="https://github.com/kaka761/Novel_Designs_for_Video_Transformer/blob/master/fuse.png" align="center" width=30% />
 </div>
+
+## Cite
+BibTeX entry for citation.
+(Xie, Allaire, and Grolemund 2018)
+
+<div id="refs" class="references csl-bib-body hanging-indent">
+
+<div id="ref-xie2018" class="csl-entry">
+
+Xie, Yihui, J. J. Allaire, and Garrett Grolemund. 2018. *R Markdown: The
+Definitive Guide*. Boca Raton, Florida: Chapman; Hall/CRC.
+<https://bookdown.org/yihui/rmarkdown>.
+
+</div>
+
+</div>
+
+## Acknowledgement
+This repository is built based on [UniFormerV2](https://github.com/OpenGVLab/UniFormerV2?tab=readme-ov-file#uniformerv2) repository.
