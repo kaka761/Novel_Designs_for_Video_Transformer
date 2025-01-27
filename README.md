@@ -1,8 +1,10 @@
 # Novel Design Ideas that Improve Video-Understanding Networks with Transformers
 This repo is for:
 
-**Paper 1:** ['Novel Design Ideas that Improve Video-Understanding Networks with Transformers'](https://ieeexplore.ieee.org/document/10649969) by Yaxin Hu & Erhardt Barth  
+**Paper 1:** ['Novel Design Ideas that Improve Video-Understanding Networks with Transformers'](https://ieeexplore.ieee.org/document/10649969) by Yaxin Hu & Erhardt Barth
+
 &
+
 **Paper 2:** 'How to Efficiently Use Color and Temporal Information for Video Understanding' by Yaxin Hu & Erhardt Barth
 
 ## Introduction
@@ -11,19 +13,19 @@ This repo is for:
 
 ### Novel Designs
 
-RGBt Sampling
+**RGBt Sampling**
 
 <div align=left>
 <img src="https://github.com/kaka761/Novel_Designs_for_Video_Transformer/blob/master/RGBt.png" align="center" width=50% />
 </div>
 
-Variable Tubes Tokenization
+**Variable Tubes Tokenization**
 
 <div align=left>
 <img src="https://github.com/kaka761/Novel_Designs_for_Video_Transformer/blob/master/Tubes.png" align="center" width=50% />
 </div>
 
-MinBlocks
+**MinBlocks**
 
 <div align=left>
 <img src="https://github.com/kaka761/Novel_Designs_for_Video_Transformer/blob/master/Mins.png" align="center" width=50% />
@@ -33,13 +35,13 @@ MinBlocks
 
 ### Architecture
 
-3DCNN & Transformer
+**3DCNN & Transformer**
 
 <div align=left>
 <img src="https://github.com/kaka761/Novel_Designs_for_Video_Transformer/blob/master/3Dcnn.png" align="center" width=50% />
 </div>
 
-Fusion Model
+**Fusion Model**
 
 <div align=left>
 <img src="https://github.com/kaka761/Novel_Designs_for_Video_Transformer/blob/master/fuse.png" align="center" width=30% />
